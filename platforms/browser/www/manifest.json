@@ -1,0 +1,12 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "Pidoya Conductor",
+  "short_name": "Pidoya Conductor",
+  "version": "com.mdc.pidoyaConductor",
+  "description": "Nuestra misión es facilitarte la vida",
+  "author": "MDC COLOMBIA",
+  "icons": [],
+  "orientation": "portrait",
+  "start_url": "index.html"
+}

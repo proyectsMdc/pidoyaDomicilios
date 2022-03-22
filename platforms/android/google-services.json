@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "36826700335",
+    "project_id": "pidoya-e42fb",
+    "storage_bucket": "pidoya-e42fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36826700335:android:2044989af770e4950104da",
+        "android_client_info": {
+          "package_name": "com.mdc.pidoya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36826700335-8ue1jma3dlnmikjpjbej2mp6buo5vm3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYjtU9EYXUVP-ExvcL9KfBj-jmtYs9aJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36826700335-8ue1jma3dlnmikjpjbej2mp6buo5vm3v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
